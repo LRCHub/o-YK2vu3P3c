@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Star Impression",
+  "base_artist": "MILLIONSTARS Team1st",
+  "createdAt": "2026-04-05T02:34:02.909317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Star Impression",
+      "artist": "MILLIONSTARS Team1st",
+      "has_synced": false,
+      "path": "select/01_Star_Impression_MILLIONSTARS_Team1st.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Star Impression",
+      "artist": "MILLIONSTARS Team1st",
+      "has_synced": true,
+      "path": "select/02_Star_Impression_MILLIONSTARS_Team1st.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Star Impression",
+      "artist": "MILLIONSTARS Team1st",
+      "has_synced": true,
+      "path": "select/03_Star_Impression_MILLIONSTARS_Team1st.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Impression",
+      "artist": "Ducktails",
+      "has_synced": false,
+      "path": "select/04_Impression_Ducktails.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All About Love (First Impression)",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/05_All_About_Love_(First_Impression)_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That's My Impression (Disco Mix) [2001 Remaster]",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/06_That's_My_Impression_(Disco_Mix)_[2001_Remaster]_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That's My Impression (Disco Mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/07_That's_My_Impression_(Disco_Mix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's My Impression",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/08_That's_My_Impression_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That’s My Impression (disco mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/09_That’s_My_Impression_(disco_mix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wrong Impression",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/10_Wrong_Impression_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wrong Impression",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/11_Wrong_Impression_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Karn Evil 9: 1st Impression",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/12_Karn_Evil_9__1st_Impression_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Karn Evil 9: 1st Impression Part 2",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/13_Karn_Evil_9__1st_Impression_Part_2_Emerson,_Lake_&_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Karn Evil 9 3rd Impression",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/14_Karn_Evil_9_3rd_Impression_Emerson,_Lake_&_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Karn Evil 9: 1st Impression Part 1",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/15_Karn_Evil_9__1st_Impression_Part_1_Emerson,_Lake_&_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Karn Evil 9 3rd Impression (Original Backing Track)",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/16_Karn_Evil_9_3rd_Impression_(Original_Backing_Track)_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Karn Evil 9 - 3rd Impression (Original Backing Track)",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/17_Karn_Evil_9_-_3rd_Impression_(Original_Backing_Track)_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Karn Evil 9 First Impression, Part 2",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/18_Karn_Evil_9_First_Impression,_Part_2_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Karn Evil 9 1st Impression Part 1",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/19_Karn_Evil_9_1st_Impression_Part_1_Emerson,_Lake_&_Palmer.lrc"
+    }
+  ]
+}
